@@ -1,0 +1,14 @@
+[package]
+name = "eight_module"
+version = "0.1.0"
+edition = "2024"
+authors = ["Seu Nome <cicerog.silvestre@gnail.com>"]
+description = "Uma biblioteca para operações matemáticas simples. Ideal para quem busca facilidade e eficiência em cálculos básicos."
+license = "MIT"
+repository = "https://github.com/CiceroGGS/simple_calc"
+homepage = "https://github.com/CiceroGGS/simple_calc"
+documentation = "https://docs.rs/eight_module"
+keywords = ["matemática", "cálculo", "simples", "operações"]
+categories = ["algorithms", "mathematics"]
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/oricao/Development/ESTUDOS_DEV/NEARX/RUST/eight_module/lib_rust/target/package/eight_module-0.1.0/target/debug/libeight_module.rlib: /home/oricao/Development/ESTUDOS_DEV/NEARX/RUST/eight_module/lib_rust/target/package/eight_module-0.1.0/src/lib.rs
